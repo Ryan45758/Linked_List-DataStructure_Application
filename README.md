@@ -1,0 +1,2 @@
+# Linked_List-DataStructure_Application
+資料結構鏈結串列實作偽資料庫CRUD
