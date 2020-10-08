@@ -1,4 +1,6 @@
 # Linked_List-DataStructure_Application
+### 主要方向: 透過所附加的JSON檔用鏈結串列實作以下操作，JSON可使用的欄位為"姓名/學號"，"朋友清單"，"發表過的文章編號"，"文章按讚表"。
+1.
 ### 簡介: 資料結構鏈結串列實作類資料庫CRUD
 目錄架構 : <br>
 主程式 : Linked_List-DataStructure_Application.py ， 資料表 : data.json
